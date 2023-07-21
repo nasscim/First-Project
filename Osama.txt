@@ -1,1 +1,1 @@
-this is a random file, i just creaeted it to try the git pull function       
+this is a random file, i just created it to try the git pull function       
